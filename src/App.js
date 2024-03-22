@@ -1,9 +1,15 @@
 import './App.css';
+import React from 'react';
+import  Nav from './components/Nav';
+import Header from './components/Header';
+import BookingForm from './components/BookingForm';
 
 function App() {
   return (
-    <div className="App">
-      <h1>This is app.js</h1>
+    <div>
+    <Nav />
+    <Header />
+    <BookingForm />
     </div>
   );
 }
