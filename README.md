@@ -1,3 +1,1 @@
-# coursera-project
-first react project
-# Checkout the master branch for complete code
+# coursera-project: for codes please Checkout the master branch for complete code
